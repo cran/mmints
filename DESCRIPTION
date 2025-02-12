@@ -1,6 +1,6 @@
 Package: mmints
 Title: Workflows for Building Web Applications
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
     person("Mackson", "Ncube", , "macksonncube.stats@gmail.com", role = c("aut", "cre")),
     person("mightymetrika, LLC", role = c("cph", "fnd"))
@@ -22,11 +22,11 @@ URL: https://github.com/mightymetrika/mmints
 BugReports: https://github.com/mightymetrika/mmints/issues
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
-Imports: DT, pool, RPostgres, shiny
+Imports: DT, pool, RPostgres, shiny, shinyauthr, sodium
 NeedsCompilation: no
-Packaged: 2024-09-03 20:55:11 UTC; Administrator
+Packaged: 2025-02-12 16:34:40 UTC; Administrator
 Author: Mackson Ncube [aut, cre],
   mightymetrika, LLC [cph, fnd]
 Maintainer: Mackson Ncube <macksonncube.stats@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-09-05 17:30:06 UTC
+Date/Publication: 2025-02-12 17:50:09 UTC
